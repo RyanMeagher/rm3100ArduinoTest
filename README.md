@@ -9,3 +9,7 @@ reading will be maximized and the y-axis will be zero. In similar fashion, when 
 pointing west, the y-axis reading will be maximized and the x-axis reading will be zero. The
 z-axis reading will depend on the dip angle at the given location. At the geomagnetic equator,
 where Earth’s magnetic field is horizontal, the z-axis reading will be zero when flat.
+
+---
+
+[RM3100 User Manual](https://www.pnicorp.com/wp-content/uploads/RM3100-Testing-Boards-User-Manual-r04-1.pdf) 
