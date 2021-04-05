@@ -32,9 +32,6 @@ class QRM3100 // create a class
 public:
     uint8_t readRegister(uint8_t address); //function to read register values
     void writeRegister(uint8_t address, uint8_t value); //function to write to a register
-    void convert_signed(int32_t *n);  //  Converts int24_t stored in 32-bit container to int32_t
-
-
 };
 
 #endif
